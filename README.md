@@ -1,6 +1,6 @@
 # AES-CBC Cipher Generator
 
-Course project for TZVM163 Cisco: Python Programming (OpenEDG) at the Open University.
+Course project for TZVM163 Cisco: Python Programming (OpenEDG) at The Open University.
 
 ## Project Overview
 This project, awarded a **93% Distinction**, implements a symmetric block cipher system based on modern professional standards. It simulates securing sensitive data strings using the **AES-256 algorithm**.
